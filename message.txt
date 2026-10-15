@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 File fixed
+=======
+ feature-improvement
+Change from feature branch
+Change from main
+ main
+>>>>>>> f63483cac0f18e14485f4ab096ba62df7fdc0505
